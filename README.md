@@ -7,3 +7,6 @@ The dataset had the values in the columns named V1, V2, V3,...... V28 etc. These
 To create a 4-layered neural network from scratch, matrix vectorization was used for faster computation. The image below summarizes the algorithm used.
 
 ![image](https://user-images.githubusercontent.com/54930611/75917020-fcb56e80-5e1e-11ea-8da5-428555c4f39a.png)
+
+
+To evaluate the model's performance, accuracy and sensitivity were checked.
